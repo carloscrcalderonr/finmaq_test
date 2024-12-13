@@ -1,0 +1,11 @@
+DB_NAME=postgres
+DB_USER=postgres
+DB_PASSWORD=1234567890
+DB_HOST=localhost
+DB_PORT=5432
+
+BASE_URL=https://api.themoviedb.org/3
+API_KEY=1aad5e95f3a7ce9a009d118860a3f6bd
+
+LOG_FOLDER_DATA= output_data
+

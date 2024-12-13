@@ -1,0 +1,64 @@
+# Entornos virtuales
+venv/
+.env
+
+# Archivos de configuración de IDE
+.idea/
+.vscode/
+
+# Archivos de log
+logs/
+*.log
+
+# Archivos de caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de base de datos
+*.sqlite3
+
+# Archivos de salida
+output_data/
+
+# Archivos de configuración de entorno
+.env
+
+# Archivos de paquetes
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+__pypackages__/
+
+# Archivos de distribución
+*.tar.gz
+*.zip
+*.whl
+
+# Archivos de cobertura de pruebas
+htmlcov/
+.tox/
+.nox/
+.coverage
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+nosetests.xml
+test-results/
+
+# Archivos de Jupyter Notebook
+.ipynb_checkpoints/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
